@@ -23,7 +23,7 @@ Registrations()
        
      System.out.println(" 2    Remove");
        
-     System.out.println(" 3    No of events participated");
+     System.out.println(" 3    No of participants");
        
      System.out.println("Enter your  preference:");  
        
@@ -46,7 +46,7 @@ Registrations()
          
       case 3:
            
-      NOFE();
+      NOFP();
            
       break;    
         
@@ -71,7 +71,7 @@ Registrations()
        
       System.out.println("Added!");
         
-       NOFE();
+       NOFP();
   
      }
     
@@ -109,7 +109,7 @@ Registrations()
    
              }
    
-   void NOFE()
+   void NOFP()
     
  {
        
